@@ -1,4 +1,4 @@
-Hi, I'm Rafli Arrasyid, also known as amatra
+Hi, I'm Rafli Arrasyid, 
 I'm currently studying Biomedical Engineering in Universitas Indonesia
 
 <!---
